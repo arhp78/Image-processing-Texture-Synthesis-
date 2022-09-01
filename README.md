@@ -9,7 +9,7 @@ Texture Synthesis is the process of algorithmically constructing a large digital
 ##### -os
 ##### -ffmpeg
 
-####input:
+#### input:
 ![texture1](https://user-images.githubusercontent.com/89074426/187969034-1f4e6765-a201-406d-89da-c2bbc30f9034.jpg)
 
 #### output:
